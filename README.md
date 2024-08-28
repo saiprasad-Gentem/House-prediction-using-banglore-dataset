@@ -30,5 +30,5 @@ Project Work Flow
 
 5.Traing the Model.
 
-6.Predecting ihouse price on new data.
+6.Predecting house price on new data.
 
